@@ -1,4 +1,3 @@
-Pictures
 # Xiaogeng's Github Page
 ## About me
 ![My photo](/photo/me.jpeg)
